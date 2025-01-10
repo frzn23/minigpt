@@ -1,0 +1,57 @@
+# TechX Smartphone Chatbot - Sample Questions and Responses
+
+Date: January 9, 2025
+Model: Llama3-8b-8192
+Dataset: TechX Smartphone Product Catalog
+
+=== Question 1 ===
+Q: What are the specifications of the TechX Pro?
+
+Here are the specifications for TechX Pro:
+
+Model: TechX Pro Brand: TechX Price: $899.99 Release Date: 2024-01-15 Specifications: • Screen Size: 6.7 inches 
+• Resolution: 2778 x 1284 • Processor: Snapdragon 8 Gen 3 • Ram: 8GB • Storage: ['128GB', '256GB'] • Battery: 4500mAh 
+• Charging: 45W fast charging 
+• Camera:
+main: 50MP
+ultrawide: 12MP
+telephoto: 10MP
+front: 32MP
+Features: • 5G connectivity • Wireless charging • Water resistant IP68 • Face recognition • Under-display fingerprint sensor Common Issues: 
+[{'issue': 'Battery drain', 'solution': 'Update to latest firmware version 2.1.0 which includes battery optimization fixes. If issue persists, 
+check for background apps consuming excessive power.'}, {'issue': 'Overheating while charging', 'solution': 'Use original charger and cable. 
+Avoid using phone while charging. If problem continues, contact support for hardware check.'}]
+
+=== Question 2 ===
+Q: How can I fix battery drain issues on my TechX Pro?
+
+Model: TechX Pro Brand: TechX Price: $899.99 Release Date: 2024-01-15 Specifications: • Screen Size: 6.7 inches • Resolution: 2778 x 1284 • Processor: Snapdragon 8 Gen 3 • Ram: 8GB • Storage: ['128GB', '256GB'] • Battery: 4500mAh • Charging: 45W fast charging • Camera:
+
+main: 50MP
+ultrawide: 12MP
+telephoto: 10MP
+front: 32MP
+Features: • 5G connectivity • Wireless charging • Water resistant IP68 • Face recognition • Under-display fingerprint sensor Common Issues: [{'issue': 'Battery drain', 'solution': 'Update to latest firmware version 2.1.0 which includes battery optimization fixes. If issue persists, check for background apps consuming excessive power.'}, {'issue': 'Overheating while charging', 'solution': 'Use original charger and cable. Avoid using phone while charging. If problem continues, contact support for hardware check.'}]
+
+=== Question 3 ===
+Q: What's covered under warranty?
+
+Standard Warranty: 1 year limited warranty Extended Warranty: Available for purchase up to 2 additional years Coverage: Manufacturing defects, 
+Hardware malfunctions, Battery defects Not Covered: Physical damage, Water damage beyond IP rating, Unauthorized modifications
+
+=== Question 4 ===
+Q: How do I contact support?
+
+Support Phone: 1-800-TECHX-HELP Support Email: support@techx.com Hours: 24/7 Average Response Time: 2 hours
+
+=== Question 5 ===
+Q: What are the camera specifications of TechX Ultra?
+
+Model: TechX Ultra Brand: TechX Price: $1199.99 Release Date: 2024-03-01 Specifications: • Screen Size: 6.8 inches • Resolution: 3088 x 1440 • Processor: Snapdragon 8 Gen 3 • Ram: 12GB • Storage: ['256GB', '512GB'] • Battery: 5000mAh • Charging: 65W fast charging • Camera:
+
+main: 200MP
+ultrawide: 48MP
+telephoto: 10MP
+periscope: 48MP
+front: 32MP
+Features: • 5G connectivity • Wireless charging • Reverse wireless charging • Water resistant IP68 • Face recognition • Under-display fingerprint sensor • S Pen support Common Issues: [{'issue': 'Screen flickering', 'solution': "Update to latest firmware version 1.0.3. If issue continues, enable 'Eye comfort shield' in display settings or contact support."}, {'issue': 'S Pen not responding', 'solution': 'Remove and reinsert S Pen. If problem persists, try resetting S Pen by pressing and holding button for 8 seconds.'}]

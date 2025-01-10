@@ -1,0 +1,141 @@
+{
+    "products": [
+      {
+        "id": "SP001",
+        "model": "TechX Pro",
+        "brand": "TechX",
+        "release_date": "2024-01-15",
+        "price": 899.99,
+        "specifications": {
+          "screen_size": "6.7 inches",
+          "resolution": "2778 x 1284",
+          "processor": "Snapdragon 8 Gen 3",
+          "ram": "8GB",
+          "storage": ["128GB", "256GB"],
+          "battery": "4500mAh",
+          "charging": "45W fast charging",
+          "camera": {
+            "main": "50MP",
+            "ultrawide": "12MP",
+            "telephoto": "10MP",
+            "front": "32MP"
+          }
+        },
+        "features": [
+          "5G connectivity",
+          "Wireless charging",
+          "Water resistant IP68",
+          "Face recognition",
+          "Under-display fingerprint sensor"
+        ],
+        "common_issues": [
+          {
+            "issue": "Battery drain",
+            "solution": "Update to latest firmware version 2.1.0 which includes battery optimization fixes. If issue persists, check for background apps consuming excessive power."
+          },
+          {
+            "issue": "Overheating while charging",
+            "solution": "Use original charger and cable. Avoid using phone while charging. If problem continues, contact support for hardware check."
+          }
+        ]
+      },
+      {
+        "id": "SP002",
+        "model": "TechX Lite",
+        "brand": "TechX",
+        "release_date": "2024-02-01",
+        "price": 599.99,
+        "specifications": {
+          "screen_size": "6.4 inches",
+          "resolution": "2400 x 1080",
+          "processor": "Snapdragon 7 Gen 1",
+          "ram": "6GB",
+          "storage": ["128GB"],
+          "battery": "4000mAh",
+          "charging": "33W fast charging",
+          "camera": {
+            "main": "48MP",
+            "ultrawide": "8MP",
+            "front": "16MP"
+          }
+        },
+        "features": [
+          "5G connectivity",
+          "Side-mounted fingerprint sensor",
+          "Water resistant IP67"
+        ],
+        "common_issues": [
+          {
+            "issue": "Slow charging",
+            "solution": "Clean charging port carefully. Use original charging cable and adapter. If issue persists, contact support."
+          },
+          {
+            "issue": "Camera app crashes",
+            "solution": "Clear camera app cache and data. Update to latest software version 1.2.1 which includes camera stability improvements."
+          }
+        ]
+      },
+      {
+        "id": "SP003",
+        "model": "TechX Ultra",
+        "brand": "TechX",
+        "release_date": "2024-03-01",
+        "price": 1199.99,
+        "specifications": {
+          "screen_size": "6.8 inches",
+          "resolution": "3088 x 1440",
+          "processor": "Snapdragon 8 Gen 3",
+          "ram": "12GB",
+          "storage": ["256GB", "512GB"],
+          "battery": "5000mAh",
+          "charging": "65W fast charging",
+          "camera": {
+            "main": "200MP",
+            "ultrawide": "48MP",
+            "telephoto": "10MP",
+            "periscope": "48MP",
+            "front": "32MP"
+          }
+        },
+        "features": [
+          "5G connectivity",
+          "Wireless charging",
+          "Reverse wireless charging",
+          "Water resistant IP68",
+          "Face recognition",
+          "Under-display fingerprint sensor",
+          "S Pen support"
+        ],
+        "common_issues": [
+          {
+            "issue": "Screen flickering",
+            "solution": "Update to latest firmware version 1.0.3. If issue continues, enable 'Eye comfort shield' in display settings or contact support."
+          },
+          {
+            "issue": "S Pen not responding",
+            "solution": "Remove and reinsert S Pen. If problem persists, try resetting S Pen by pressing and holding button for 8 seconds."
+          }
+        ]
+      }
+    ],
+    "warranty_info": {
+      "standard_warranty": "1 year limited warranty",
+      "extended_warranty": "Available for purchase up to 2 additional years",
+      "coverage": [
+        "Manufacturing defects",
+        "Hardware malfunctions",
+        "Battery defects"
+      ],
+      "not_covered": [
+        "Physical damage",
+        "Water damage beyond IP rating",
+        "Unauthorized modifications"
+      ]
+    },
+    "support_contacts": {
+      "phone": "1-800-TECHX-HELP",
+      "email": "support@techx.com",
+      "hours": "24/7",
+      "average_response_time": "2 hours"
+    }
+  }
